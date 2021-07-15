@@ -32,7 +32,7 @@
     "gulp-concat": "^2.6.1",
     "gulp-insert": "^0.5.0",
     "gulp-series": "^1.0.2",
-    "gulp-shell": "^0.6.5",
+    "gulp-shell": "^0.8.0",
     "jshint": "^2.9.5",
     "webdriverio": "^4.13.2"
   },
